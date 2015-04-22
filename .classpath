@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="WEB-INF/lib/commons-fileupload-1.0.jar" kind="lib"/>
+	<classpathentry path="WEB-INF/lib/ojdbc14_g.jar" kind="lib"/>
+	<classpathentry path="WEB-INF/src" kind="src"/>
+	<classpathentry path="work" output="work" kind="src"/>
+	<classpathentry path="WEB-INF/lib/activation.jar" kind="lib"/>
+	<classpathentry path="WEB-INF/lib/mail.jar" kind="lib"/>
+	<classpathentry path="WEB-INF/lib/itextpdf-5.2.1.jar" kind="lib"/>
+	<classpathentry path="TOMCAT_HOME/common/lib/servlet-api.jar" kind="var"/>
+	<classpathentry path="TOMCAT_HOME/common/lib/jasper-runtime.jar" kind="var"/>
+	<classpathentry path="TOMCAT_HOME/common/lib/jsp-api.jar" kind="var"/>
+	<classpathentry path="WEB-INF/classes" kind="output"/>
+</classpath>
